@@ -1,0 +1,3 @@
+user6:user@1:1002:1002::/home/user6:/bin/bash
+user7:user@1:1003:1003::/home/user7:/bin/bash
+user8:user@1:1004:1004::/home/user8:/bin/bash
